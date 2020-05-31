@@ -1,5 +1,8 @@
 language: java
 
+arch:
+    - amd64
+    - arm64
 cache:
   directories:
   - ~/.m2
